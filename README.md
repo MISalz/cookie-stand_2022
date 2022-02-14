@@ -9,6 +9,6 @@ Build a page for a client who wants to introduce his Salmon cookies to the commu
 
 ## Links and Resources
 • submission PR
-• Any Links you used as reference
+• Meyers CSS Reset "https://meyerweb.com/eric/tools/css/reset/"
 
 ## Reflections and Comments
