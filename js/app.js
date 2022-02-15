@@ -17,4 +17,6 @@
 
 // Make sure to make each location is its own JavaScript object.
 
+
+
 let sales = document.getElementById('sales');
